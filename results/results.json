@@ -1,0 +1,96 @@
+{
+  "status": "Midterm feasibility pilot; AI-assisted labels; no trained model",
+  "totals": {
+    "papers": 3,
+    "selected_units": 30,
+    "preserved": 20,
+    "omitted": 10
+  },
+  "papers": [
+    {
+      "paper_id": "P01",
+      "study": "Baron 2023",
+      "selected_units": 10,
+      "preserved": 7,
+      "omitted": 3,
+      "source_graph": {
+        "nodes": 11,
+        "edges": 13,
+        "mean_total_degree": 2.3636363636363638,
+        "degree_distribution": {
+          "1": 6,
+          "2": 3,
+          "4": 1,
+          "10": 1
+        }
+      },
+      "summary_graph": {
+        "nodes": 8,
+        "edges": 8,
+        "mean_total_degree": 2.0,
+        "degree_distribution": {
+          "1": 5,
+          "2": 2,
+          "7": 1
+        }
+      }
+    },
+    {
+      "paper_id": "P02",
+      "study": "Gale 2024",
+      "selected_units": 10,
+      "preserved": 6,
+      "omitted": 4,
+      "source_graph": {
+        "nodes": 11,
+        "edges": 13,
+        "mean_total_degree": 2.3636363636363638,
+        "degree_distribution": {
+          "1": 6,
+          "2": 3,
+          "4": 1,
+          "10": 1
+        }
+      },
+      "summary_graph": {
+        "nodes": 7,
+        "edges": 7,
+        "mean_total_degree": 2.0,
+        "degree_distribution": {
+          "1": 4,
+          "2": 2,
+          "6": 1
+        }
+      }
+    },
+    {
+      "paper_id": "P03",
+      "study": "Siu 2021",
+      "selected_units": 10,
+      "preserved": 7,
+      "omitted": 3,
+      "source_graph": {
+        "nodes": 11,
+        "edges": 12,
+        "mean_total_degree": 2.1818181818181817,
+        "degree_distribution": {
+          "1": 7,
+          "2": 2,
+          "3": 1,
+          "10": 1
+        }
+      },
+      "summary_graph": {
+        "nodes": 8,
+        "edges": 8,
+        "mean_total_degree": 2.0,
+        "degree_distribution": {
+          "1": 5,
+          "2": 2,
+          "7": 1
+        }
+      }
+    }
+  ],
+  "interpretation": "Counts describe selected information units in these saved summaries only. They are not model accuracy, clinical trust scores or population omission rates."
+}

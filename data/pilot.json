@@ -1,0 +1,386 @@
+[
+  {
+    "id": "P01",
+    "short": "Baron 2023",
+    "year": 2023,
+    "doi": "10.3390/ijerph20085452",
+    "pmid": "37107734",
+    "pmcid": "PMC10138891",
+    "license": "CC BY 4.0",
+    "authors": "Baron P, Hermand E, Bourlois V, et al.",
+    "title": "Effect of Aerobic Exercise Training on Sleep and Core Temperature in Middle-Aged Women with Chronic Insomnia: A Randomized Controlled Trial",
+    "abstract": "Background: Exercise represents a viable non-pharmacological intervention to help treating insomnia but the interaction mechanisms between sleep and physical activity still remain poorly understood. The aim of this study was to investigate the effect of a aerobic exercise training intervention on sleep and core temperature. Methods: Twenty-four adult women suffering from insomnia participated in this study. They were randomized into an exercise group and a control group. Aerobic exercise training consisted in moderate to vigorous aerobic exercise training for 12 weeks. Outcome measures included both subjective (Insomnia Severity Index, ISI) and objective (actigraphy recordings) sleep quality assessments, and core body temperature continuously recorded for a minimum 24 h. Results: The exercise group showed a decrease in ISI (p < 0.001) and in various objective sleep parameters. The core temperature batyphase value was lowered (p = 0.037) whereas its amplitude was larger (p = 0.002). We also found a tight correlation between the evolution of insomnia and the evolution of mean night-time core temperature and batyphase values. Conclusions: A moderate to vigorous aerobic exercise program appears to be an effective non-drug therapy for improving sleep in women with insomnia. In addition, exercise programs should aim to increase core body temperature during practice to induce sleep-promoting adaptations and rebound.",
+    "summary": "Twenty-four women with insomnia were randomly assigned to 12 weeks of moderate-to-vigorous aerobic exercise or a control group. Researchers assessed sleep with the Insomnia Severity Index and actigraphy and monitored core temperature. Exercise was associated with improved insomnia symptoms and changes in objective sleep measures and temperature rhythms. The authors suggest aerobic exercise may help women with insomnia, with temperature changes potentially contributing to the sleep response.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10138891/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37107734/",
+    "retrieved": "2026-11-08",
+    "transcription_note": "Abstract transcribed from official PMC/PubMed/publisher text. Whitespace, Unicode minus signs, headings and typography normalized; scientific values retained. Source links remain authoritative.",
+    "summary_provenance": {
+      "generator": "ChatGPT coding assistant in this conversation",
+      "exact_model_version": "Not exposed by this session; do not invent",
+      "date": "2026-11-08",
+      "prompt_id": "S1",
+      "temperature": "Not exposed",
+      "run_count": 1,
+      "edited_by_students": false
+    },
+    "claims": [
+      {
+        "id": "P01_C01",
+        "type": "population",
+        "text": "24 participants",
+        "source_anchor": "Twenty-four adult women",
+        "summary_evidence": "Twenty-four women",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C02",
+        "type": "population",
+        "text": "Women with insomnia",
+        "source_anchor": "adult women suffering from insomnia",
+        "summary_evidence": "women with insomnia",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C03",
+        "type": "design",
+        "text": "Random assignment",
+        "source_anchor": "They were randomized",
+        "summary_evidence": "randomly assigned",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C04",
+        "type": "intervention",
+        "text": "Moderate to vigorous aerobic exercise",
+        "source_anchor": "moderate to vigorous aerobic exercise training",
+        "summary_evidence": "moderate-to-vigorous aerobic exercise",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C05",
+        "type": "duration",
+        "text": "12 weeks",
+        "source_anchor": "for 12 weeks",
+        "summary_evidence": "12 weeks",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C06",
+        "type": "measurement",
+        "text": "ISI and actigraphy",
+        "source_anchor": "Insomnia Severity Index, ISI) and objective (actigraphy recordings)",
+        "summary_evidence": "Insomnia Severity Index and actigraphy",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C07",
+        "type": "measurement",
+        "text": "Temperature monitored for at least 24 h",
+        "source_anchor": "minimum 24 h",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P01_C08",
+        "type": "outcome",
+        "text": "Insomnia severity decreased",
+        "source_anchor": "showed a decrease in ISI",
+        "summary_evidence": "improved insomnia symptoms",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P01_C09",
+        "type": "outcome",
+        "text": "Lower batyphase and larger temperature amplitude",
+        "source_anchor": "batyphase value was lowered (p = 0.037) whereas its amplitude was larger",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P01_C10",
+        "type": "outcome",
+        "text": "Correlation of insomnia and temperature changes",
+        "source_anchor": "tight correlation between the evolution of insomnia",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      }
+    ]
+  },
+  {
+    "id": "P02",
+    "short": "Gale 2024",
+    "year": 2024,
+    "doi": "10.1136/bmjsem-2023-001774",
+    "pmid": "39027425",
+    "pmcid": "PMC11256039",
+    "license": "CC BY-NC 4.0; noncommercial educational use",
+    "authors": "Gale JT, Haszard JJ, Wei DL, Taylor RW, Peddie MC.",
+    "title": "Evening regular activity breaks extend subsequent free-living sleep time in healthy adults: a randomised crossover trial",
+    "abstract": "Objective: To determine if performing regular 3-min bouts of resistance exercise spread over 4 hours in an evening will impact subsequent sleep quantity and quality, sedentary time and physical activity compared with prolonged uninterrupted sitting. Methods: In this randomised crossover trial, participants each completed two 4-hour interventions commencing at approximately 17:00 hours: (1) prolonged sitting and (2) sitting interrupted with 3 min of bodyweight resistance exercise activity breaks every 30 min. On completion, participants returned to a free-living setting. This paper reports secondary outcomes relating to sleep quality and quantity, physical activity and sedentary time which were assessed using wrist-worn ActiGraph GT3+ accelerometers paired with a sleep and wear time diary. Results: A total of 28 participants (women, n=20), age 25.6±5.6 years, body mass index 29.5±6.7 kg/m2 (mean±SD) provided data for this analysis. Compared with prolonged sitting, regular activity breaks increased mean sleep period time and time spent asleep by 29.3 min (95% CI: 1.3 to 57.2, p=0.040) and 27.7 min (95% CI: 2.3 to 52.4, p=0.033), respectively, on the night of the intervention. There was no significant effect on mean sleep efficiency (mean: 0.2%, 95% CI: -2.0 to 2.4, p=0.857), wake after sleep onset (1.0 min, 95% CI: -9.6 to 11.7, p=0.849) and number of awakenings (0.8, 95% CI: -1.8 to 3.3, p=0.550). Subsequent 24-hour and 48-hour physical activity patterns were not significantly different. Conclusions: Performing bodyweight resistance exercise activity breaks in the evening has the potential to improve sleep period and total sleep time and does not disrupt other aspects of sleep quality or subsequent 24-hour physical activity. Future research should explore the longer-term impact of evening activity breaks on sleep. Trial registration number: Australian New Zealand Clinical Trials Registry (ACTRN12621000250831).",
+    "summary": "In a randomized crossover trial, 28 adults completed an evening sitting condition and a condition with three-minute bodyweight resistance breaks every 30 minutes over four hours. Wrist accelerometers and diaries assessed subsequent sleep. Activity breaks increased sleep duration on the intervention night compared with prolonged sitting, but did not significantly change sleep efficiency or awakenings. The findings concern a short intervention; the authors call for longer-term research.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256039/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39027425/",
+    "retrieved": "2026-11-08",
+    "transcription_note": "Abstract transcribed from official PMC/PubMed/publisher text. Whitespace, Unicode minus signs, headings and typography normalized; scientific values retained. Source links remain authoritative.",
+    "summary_provenance": {
+      "generator": "ChatGPT coding assistant in this conversation",
+      "exact_model_version": "Not exposed by this session; do not invent",
+      "date": "2026-11-08",
+      "prompt_id": "S1",
+      "temperature": "Not exposed",
+      "run_count": 1,
+      "edited_by_students": false
+    },
+    "claims": [
+      {
+        "id": "P02_C01",
+        "type": "population",
+        "text": "28 participants",
+        "source_anchor": "28 participants",
+        "summary_evidence": "28 adults",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P02_C02",
+        "type": "population",
+        "text": "20 women",
+        "source_anchor": "women, n=20",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P02_C03",
+        "type": "population",
+        "text": "Mean age 25.6 years",
+        "source_anchor": "age 25.6±5.6 years",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P02_C04",
+        "type": "design",
+        "text": "Randomized crossover design",
+        "source_anchor": "randomised crossover trial",
+        "summary_evidence": "randomized crossover trial",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P02_C05",
+        "type": "intervention",
+        "text": "3 min breaks every 30 min over 4 h",
+        "source_anchor": "3 min of bodyweight resistance exercise activity breaks every 30 min",
+        "summary_evidence": "three-minute bodyweight resistance breaks every 30 minutes over four hours",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P02_C06",
+        "type": "measurement",
+        "text": "Wrist accelerometers and diary",
+        "source_anchor": "wrist-worn ActiGraph GT3+ accelerometers paired with a sleep and wear time diary",
+        "summary_evidence": "Wrist accelerometers and diaries",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P02_C07",
+        "type": "outcome",
+        "text": "27.7 min more sleep with 95% CI 2.3 to 52.4",
+        "source_anchor": "27.7 min (95% CI: 2.3 to 52.4",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P02_C08",
+        "type": "outcome",
+        "text": "No significant sleep efficiency effect",
+        "source_anchor": "no significant effect on mean sleep efficiency",
+        "summary_evidence": "did not significantly change sleep efficiency",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P02_C09",
+        "type": "outcome",
+        "text": "No significant wake after sleep onset effect",
+        "source_anchor": "wake after sleep onset (1.0 min, 95% CI: -9.6 to 11.7, p=0.849)",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P02_C10",
+        "type": "qualifier",
+        "text": "Longer term research needed",
+        "source_anchor": "Future research should explore the longer-term impact",
+        "summary_evidence": "authors call for longer-term research",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      }
+    ]
+  },
+  {
+    "id": "P03",
+    "short": "Siu 2021",
+    "year": 2021,
+    "doi": "10.1001/jamanetworkopen.2020.37199",
+    "pmid": "33587135",
+    "pmcid": "PMC7885034",
+    "license": "CC BY 4.0",
+    "authors": "Siu PM, Yu AP, Tam BT, et al.",
+    "title": "Effects of Tai Chi or Exercise on Sleep in Older Adults With Insomnia: A Randomized Clinical Trial",
+    "abstract": "Importance: Previous studies that have shown tai chi to improve sleep were mainly based on subjective assessments, which might have produced results confounded by self-reporting bias. Objective: To compare the effectiveness of tai chi for improving sleep in older adults with insomnia with conventional exercise and a passive control group using actigraphy-based objective measurements. Design, Setting, and Participants: This randomized, 3-arm, parallel group, assessor-masked clinical trial was conducted at a single research unit in Hong Kong between August 2014 and August 2018. Eligible participants, aged 60 years or older and with chronic insomnia, were randomly allocated into tai chi training, exercise, and control groups. Interventions: 12-week tai chi training, 12-week conventional exercise, and no intervention control. Main Outcomes and Measures: Primary outcomes were measures taken from actigraphy sleep assessment. Secondary outcomes included remission of insomnia, insomnia treatment response, Pittsburgh Sleep Quality Index score, Insomnia Severity Index score, and self-reported sleep using a 7-day sleep diary. Assessments were performed at baseline, end of the intervention (postintervention), and 24 months after the intervention (follow-up). Data analysis was performed from September 2018 to August 2020. Results: A total of 320 participants (mean [SD] age, 67.3 [6.8] years; mean [SD] insomnia duration, 124.4 [134.5] months; 256 [80.0%] women) were randomly allocated into control (110 participants), exercise (105 participants), and tai chi (105 participants) groups and included in the data analysis. Compared with the control group, the exercise and tai chi groups showed improved sleep efficiency (exercise vs control: adjusted mean difference, +3.5%; 95% CI, 1.8-5.2; P < .001; tai chi vs control: adjusted mean difference, +3.4%; 95% CI, 1.6-5.1; P < .001) and reductions of wake time after sleep onset (exercise vs control: -17.0 minutes; 95% CI, -24.9 to -9.0; P < .001; tai chi vs control: -13.3 minutes; 95% CI, -21.3 to -5.2; P = .001) and number of awakenings (exercise vs control: -2.8 times; 95% CI, -4.0 to -1.6; P < .001; tai chi vs control: -2.2 times; 95% CI, -3.5 to -1.0; P < .001) as assessed by actigraphy at postintervention; although there were no significant differences between the exercise and tai chi groups. The actigraphy-assessed beneficial effects were maintained in both intervention groups at follow-up. Conclusions and Relevance: Conventional exercise and tai chi improved sleep and the beneficial effects sustained for 24 months, although the absolute improvements in sleep parameters were modest. Improvements in objective sleep parameters were not different between the tai chi and exercise groups, suggesting that tai chi can be an alternative approach for managing insomnia. Trial Registration: ClinicalTrials.gov Identifier: NCT02260843.",
+    "summary": "A randomized trial compared 12 weeks of tai chi, conventional exercise, and no intervention in 320 adults aged 60 or older with chronic insomnia. Actigraphy showed better sleep efficiency and less wakefulness after sleep onset in both active groups compared with controls. Benefits remained at 24 months, and objective sleep outcomes did not differ significantly between the exercise groups. These results support further consideration of both approaches for older adults with insomnia.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7885034/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33587135/",
+    "retrieved": "2026-11-08",
+    "transcription_note": "Abstract transcribed from official PMC/PubMed/publisher text. Whitespace, Unicode minus signs, headings and typography normalized; scientific values retained. Source links remain authoritative.",
+    "summary_provenance": {
+      "generator": "ChatGPT coding assistant in this conversation",
+      "exact_model_version": "Not exposed by this session; do not invent",
+      "date": "2026-11-08",
+      "prompt_id": "S1",
+      "temperature": "Not exposed",
+      "run_count": 1,
+      "edited_by_students": false
+    },
+    "claims": [
+      {
+        "id": "P03_C01",
+        "type": "population",
+        "text": "320 participants",
+        "source_anchor": "320 participants",
+        "summary_evidence": "320 adults",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C02",
+        "type": "population",
+        "text": "Age at least 60 with chronic insomnia",
+        "source_anchor": "aged 60 years or older and with chronic insomnia",
+        "summary_evidence": "aged 60 or older with chronic insomnia",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C03",
+        "type": "population",
+        "text": "80 percent women",
+        "source_anchor": "256 [80.0%] women",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P03_C04",
+        "type": "duration",
+        "text": "12 weeks",
+        "source_anchor": "12-week tai chi training",
+        "summary_evidence": "12 weeks",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C05",
+        "type": "intervention",
+        "text": "Tai chi, exercise and no intervention control",
+        "source_anchor": "12-week tai chi training, 12-week conventional exercise, and no intervention control",
+        "summary_evidence": "tai chi, conventional exercise, and no intervention",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C06",
+        "type": "measurement",
+        "text": "Actigraphy sleep assessment",
+        "source_anchor": "actigraphy sleep assessment",
+        "summary_evidence": "Actigraphy",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C07",
+        "type": "duration",
+        "text": "24 month follow up",
+        "source_anchor": "24 months after the intervention",
+        "summary_evidence": "24 months",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C08",
+        "type": "outcome",
+        "text": "Exercise efficiency difference 3.5 with 95% CI 1.8 to 5.2",
+        "source_anchor": "+3.5%; 95% CI, 1.8-5.2",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      },
+      {
+        "id": "P03_C09",
+        "type": "outcome",
+        "text": "No significant objective difference between active groups",
+        "source_anchor": "no significant differences between the exercise and tai chi groups",
+        "summary_evidence": "did not differ significantly between the exercise groups",
+        "status": "preserved",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary explicitly retains this information unit."
+      },
+      {
+        "id": "P03_C10",
+        "type": "qualifier",
+        "text": "Absolute sleep improvements modest",
+        "source_anchor": "absolute improvements in sleep parameters were modest",
+        "summary_evidence": "",
+        "status": "omitted",
+        "review_status": "AI-drafted; student review pending",
+        "rationale": "Summary does not retain the full predefined information unit. General wording alone does not preserve this detail."
+      }
+    ]
+  }
+]

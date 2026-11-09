@@ -1,0 +1,7 @@
+{
+  "scope": "Three purposively chosen public abstracts. Feasibility demonstration, not a systematic review.",
+  "generation": "Summaries and structured claim extraction authored by the ChatGPT assistant in this session. Deterministic replay uses the saved records, not fresh LLM calls.",
+  "annotation": "AI-assisted provisional labels. No independent student annotation or agreement study has occurred. Claims chosen during pilot development, not preregistered.",
+  "excluded": "No patient data. No adverse-event omission scoring when the abstract does not report adverse events.",
+  "copyright": "Article text remains under each original license. P02 is CC BY-NC and restricts commercial reuse. Code license does not relicense source abstracts."
+}

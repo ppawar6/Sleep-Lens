@@ -1,0 +1,5 @@
+Reusable future-run template E1.
+
+Extract atomic information units and subject-predicate-object relationships separately from the supplied source abstract and summary. Use types population, design, intervention, duration, measurement, outcome, qualifier. Preserve negation, uncertainty, numerical values, units, comparison groups and time points. Every extracted item must include an exact source-text anchor. Mark absent information not_reported; do not infer that no adverse events occurred from silence. Return strict JSON with paper_id, document_type, nodes, edges and uncertainty_notes. Do not access reference labels.
+
+A separate reviewer aligns units and assigns preserved/omitted/partial/distorted/not_reported after extraction. The binary pilot only includes the selected preserved/omitted units, with numerical details explicitly defined as separate information units. Record ambiguous cases for adjudication.

@@ -1,0 +1,5 @@
+Reusable future-run template S1. The current pilot summaries were authored in the ChatGPT session described in 00_generation_record.md.
+
+Summarize the supplied abstract in approximately 70-90 words for an educated non-specialist. Use only the abstract. Preserve population, study design, intervention, main findings and important qualifications as space permits. Do not invent missing facts, imply causation beyond the study, generalize beyond the population or add clinical advice. Distinguish no significant difference from equivalence. Return JSON with paper_id, summary_text and uncertain_points. Do not deliberately remove selected facts to manufacture errors.
+
+Input: {paper_id, abstract}
