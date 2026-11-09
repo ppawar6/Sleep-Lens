@@ -1,7 +1,5 @@
 # Exercise and sleep summary omission pilot
 
-Midterm first evidence for EM 626, AI/ML for Systems, Professor Carlo Lipizzi.
-
 **Status:** three public abstracts, three saved AI-generated summaries, 30 AI-assisted provisional information-unit labels, six source-aligned graphs. **No trained GCN, predictive accuracy, clinical trust score or independent human annotation is claimed.**
 
 ## Run on Windows PowerShell, macOS or Linux
