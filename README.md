@@ -55,13 +55,3 @@ Read each source abstract and summary. Complete reviewer columns in a COPY of `r
 ## GCN is next
 
 The planned GCN predicts preserved/omitted source concepts using source-graph connectivity, concept features and summary text representations. Preserved/omitted labels, summary node membership, graph differences and exact matching outputs must never enter GCN inputs. We will compare an MLP/logistic regression using the same non-graph inputs, plus a direct text-matching baseline. No training script is provided because training is outside this checkpoint.
-
-## Source rights and citations
-
-Baron et al. (2023), doi:10.3390/ijerph20085452, CC BY 4.0.
-Gale et al. (2024), doi:10.1136/bmjsem-2023-001774, CC BY-NC 4.0.
-Siu et al. (2021), doi:10.1001/jamanetworkopen.2020.37199, CC BY 4.0.
-
-Original author rights apply to source abstracts. Text typography is normalized and AI summaries are adaptations. Keep attribution and the noncommercial restriction for Gale et al. No patient data. This academic prototype does not provide medical advice.
-
-Code and annotations were drafted with the ChatGPT coding assistant in this session. Review `docs/AI_DISCLOSURE.md` and retain this conversation as part of the prompt record.
